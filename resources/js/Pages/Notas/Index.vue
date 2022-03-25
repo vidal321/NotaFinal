@@ -16,7 +16,7 @@
                         Crear
                     </inertia-link>
                    
-                    <a href="http://localhost:8000/nota/create" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 mb-8 rounded-md">Test</a>
+                   
             </div>
             <div class="flex flex-col">
                 <div class="-my-2 overflow-x-auto sm:-mx-6 lg:-mx-8">
